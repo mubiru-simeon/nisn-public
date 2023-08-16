@@ -7,7 +7,6 @@ NISN is a Flutter application developed for the Space Apps Challenge. The app's 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 - [Apology](#apology)
@@ -34,10 +33,6 @@ To get started with NISN, follow these steps:
 4. Run the app: `flutter run`
 
 For detailed instructions on setting up Flutter and running the app on different platforms, refer to the [official Flutter documentation](https://flutter.dev/docs/get-started/install).
-
-## Screenshots
-
-Insert some screenshots or GIFs showcasing the app's interface and features.
 
 ## Contributors
 
